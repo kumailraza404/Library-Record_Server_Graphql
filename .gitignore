@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+dist/
+.npmrc
+.env
+yarn.lock
+yarn-error.log
+.env
+*.zip
+.scannerwork
+.firebase
